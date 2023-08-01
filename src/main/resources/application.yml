@@ -1,0 +1,10 @@
+spring.application.name: kite-copy-trading
+#spring.profiles.active: dev
+server.port: 8055
+
+self:
+  user.id:
+  user.pwd:
+  zerodha.totp.key:
+  api.key:
+  api.secret:
